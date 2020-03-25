@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">RumusBangunDatar</string>
+
+    <string name="text_gambar">Gambar</string>
+
+    //perhitungan
+    <string name="hitung_luas">Hitung Luas</string>
+    <string name="hitung_keliling">Hitung Keliling</string>
+    <string name="hasil">Hasil</string>
+    <string name="luas">Luas :</string>
+    <string name="keliling">Keliling :</string>
+    <string name="hitung">Hitung</string>
+
+    //atribute
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="alas">Alas</string>
+    <string name="jari_jari">Jari - Jari</string>
+    <string name="zero">0</string>
+    <string name="sisi">Sisi</string>
+    <string name="sisiA">Sisi A</string>
+    <string name="sisiB">Sisi B</string>
+    <string name="sisiC">Sisi C</string>
+    <string name="sisiAB">Sisi AB</string>
+    <string name="sisiCD">Sisi CD</string>
+    <string name="sisiBC">Sisi BC</string>
+    <string name="sisiDA">Sisi DA</string>
+
+    //bangun datar
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="persegi_panjang">Persegi Panjang</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="persegi">Persegi</string>
+    <string name="trapesium">Trapesium</string>
+
+    //bangun ruang
+
+    //other
+</resources>
